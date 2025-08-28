@@ -1,2 +1,2 @@
 # notes-devenv
-Notes on development environment.
+Notes on developer environment.
